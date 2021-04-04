@@ -31,3 +31,5 @@ This is helpful for looking at information that is already well understood, howe
 ![Image of Scatter Dashboard](https://michaeljmerritt.github.io/Portfolio/Images/PBIReport2a.jpg)
 
 So a point high on the Y axis is stock with its price near a recent maximum and a point high along the X axis shows a price rising faster in the past two weeks than the past four.  So in this case points in the upper right quadrant of the chart will be of most interest to find new stocks that are showing strong momentum.
+
+[Back to Portfolio](https://michaeljmerritt.github.io/Portfolio/)
